@@ -1,2 +1,2 @@
 # Data-Science
-DS Repository!
+Data Science Repository!
